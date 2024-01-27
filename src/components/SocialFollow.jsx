@@ -10,7 +10,7 @@ import "../styles/SocialFollow.css";
 
 const SocialFollow = () => {
     return (
-        <div class="social-container">
+        <div className="social-container">
         <a href="https://api.github.com/users/github-john-doe" target="_blank"
           className="GitHub">
           <FontAwesomeIcon icon={faGithub} size="2x" />
